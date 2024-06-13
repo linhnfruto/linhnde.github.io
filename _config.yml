@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  jekyllrb
 
 # Build settings
-theme: jekyll-athena
+#theme: jekyll-athena
 plugins:
   - jekyll-feed
 
