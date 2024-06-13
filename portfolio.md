@@ -6,7 +6,7 @@ permalink: /portfolio/
 
 ## 🚖 Automatidata
 
-### [Identify data types and relevant variables using Python](automatidata_1_start_python.ipynb)
+### [Identify data types and relevant variables using Python](https://github.com/linhnde/data-analytics-portfolio/blob/main/automatidata_1_start_python.ipynb){:target="_blank"}
 To get clear insights, New York TLC's data must be analyzed, key variables identified, and the dataset ensured it is ready for analysis.
 
 ### [Exploratory Data Analysis](automatidata_2_eda.ipynb)
