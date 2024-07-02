@@ -2,6 +2,7 @@
 layout: page
 title: Home
 permalink: /
+order: 1
 ---
 
 For my works, take a look at my [Portfolio](portfolio.markdown).
