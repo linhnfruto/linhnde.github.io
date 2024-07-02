@@ -3,7 +3,7 @@ layout: page
 title: Home
 permalink: /
 order: 1
-exclue: true
+exclude: true
 ---
 
 For my works, take a look at my [Portfolio](portfolio.markdown).
