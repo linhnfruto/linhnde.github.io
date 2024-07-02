@@ -5,6 +5,8 @@ order: 1
 exclude: true
 ---
 
-For my works, take a look at my [Portfolio](portfolio.markdown).
+Welcome,
+
+For my works, please take a look at my [Portfolio](portfolio.markdown).
 
 For my information and contact, kindly visit [About](about.markdown).
