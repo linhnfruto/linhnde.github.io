@@ -6,8 +6,8 @@ permalink: /about/
 
 Hello,
 
-I'm _**Linh Nguyen**_.
+I'm _Linh Nguyen_.
 
-I work with _**data pipelines**_ and _**analytics**_.
+I work with _data pipelines_ and _analytics_.
 
 For business inquiries, please contact: [**linh@linh-n.com**](linh@linh-n.com){:target="_blank"}
