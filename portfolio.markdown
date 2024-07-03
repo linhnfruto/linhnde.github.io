@@ -5,11 +5,13 @@ permalink: /portfolio
 order: 1
 ---
 ## Table of contents
+___
 
 1. [Data Engineer](#data-engineer)
 2. [Data Analytics](#data-analytics)
 
 ## ⚙️ Data Engineer
+___
 
 ### 🤖 [Quiz Data Processing](https://github.com/linhnde/quiz-data-processing){:target="_blank"}
 
@@ -31,6 +33,7 @@ The app has basic functions:
 * Record fail list and export for further practice.
 
 ## 🗒 Data Analytics
+___
 
 ### 🚖 Automatidata
 
