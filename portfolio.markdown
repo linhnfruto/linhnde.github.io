@@ -9,8 +9,8 @@ order: 1
 
 ## Table of contents
 
-1. [Data Engineer](#data-engineer)
-2. [Data Analytics](#data-analytics)
+1. [Data Engineer](#-data-engineer)
+2. [Data Analytics](#-data-analytics)
 
 ---
 
