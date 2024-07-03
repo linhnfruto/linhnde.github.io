@@ -17,7 +17,7 @@ In this project, we will build a Jupyter notebook to create a synthetic quiz dat
 
 I use Vertex AI to generate text data mimics quiz which input by human in common format. From the mockup document, we will load, extract and process, re-engineer it into JSON format which is widely used for web application.
 
-### 🧐 [Exam Practice (Flask base)](https://github.com/linhnde/exam-practice-flask)
+### 🧐 [Exam Practice (Flask base)](https://github.com/linhnde/exam-practice-flask){:target="_blank"}
 
 This lightweight web application is the result while simulating a demand for practicing on certain quiz set.
 It is built on Flask.
