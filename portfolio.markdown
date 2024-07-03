@@ -9,7 +9,7 @@ order: 1
 1. [Data Engineer](#data-engineer)
 2. [Data Analytics](#data-analytics)
 
-## Data Engineer
+## ⚙️ Data Engineer
 
 ### 🤖 [Quiz Data Processing](https://github.com/linhnde/quiz-data-processing){:target="_blank"}
 
@@ -30,7 +30,7 @@ The app has basic functions:
 * Record score for tracking performance.
 * Record fail list and export for further practice.
 
-## Data Analytics
+## 🗒 Data Analytics
 
 ### 🚖 Automatidata
 
