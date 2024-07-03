@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /
-order: 1
 exclude: true
 ---
 
