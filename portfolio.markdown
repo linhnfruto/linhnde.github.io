@@ -10,8 +10,8 @@ ___
 
 1. [Data Engineer](#data-engineer)
 2. [Data Analytics](#data-analytics)
-___
 
+___
 ## ⚙️ Data Engineer
 
 ### 🤖 [Quiz Data Processing](https://github.com/linhnde/quiz-data-processing){:target="_blank"}
@@ -32,8 +32,8 @@ The app has basic functions:
 * Adaptive layout for single-choice and multiple-choices question.
 * Record score for tracking performance.
 * Record fail list and export for further practice.
-___
 
+___
 ## 🗒 Data Analytics
 
 ### 🚖 Automatidata
