@@ -24,16 +24,14 @@ I use Vertex AI to generate text data mimics quiz which input by human in common
 
 ### 🧐 [Exam Practice (Flask base)](https://github.com/linhnde/exam-practice-flask){:target="_blank"}
 
-This lightweight web application is the result while simulating a demand for practicing on certain quiz set.
-It is built on Flask.
+Simulating a demand for practicing on certain quiz set, I create this web app, Exam Practice (EP).
 
-The app has basic functions:
-* User-session based.
-* Load quiz set available in bucket.
-* Automatically shuffle choices to randomize answers pattern.
-* Adaptive layout for single-choice and multiple-choices question.
-* Record score for tracking performance.
-* Record fail list and export for further practice.
+Originally, app was built on Tkinter. But later I adapted it on Flask to take advantages of responsive designing.
+
+Using Google Cloud Run for deploying, we can save expense significantly in the early stage 
+as we don't have to worry about 24/7 uptime bill.
+
+Google Cloud Run also makes it easy to scale up the infrastructures if we need.
 
 ---
 
