@@ -68,7 +68,7 @@ The National Longitudinal Survey of Youth 1997-2011 dataset is one of the most i
 It allows scientists to look at the determinants of earnings as well as educational attainment and has incredible relevance for government policy.
 When we have a better understanding how these variables affect education and earnings we can also formulate more suitable government policies.
 
-###  🦄 Unicorn Companies
+###  🦄 [Unicorn Companies](https://github.com/linhnde/unicorn-companies){:target="_blank"}
 #### [Discovery](https://github.com/linhnde/unicorn-companies/blob/master/unicorn_companies_discovery.ipynb){:target="_blank"}
 The data I will use for this task provides information on over 1,000 unicorn companies, including their industry, country, year founded, and select investors. I will use this information to gain insights into how and when companies reach this prestigious milestone and to make recommentations for next steps to the investing firm.
 
