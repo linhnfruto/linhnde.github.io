@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portfolio
+title: Data Analyst
 permalink: /data-analyst
 order: 1
 ---
