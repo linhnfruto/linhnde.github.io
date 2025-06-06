@@ -5,13 +5,13 @@ permalink: /data-engineer
 order: 2
 ---
 
-### 🤖 [Quiz Data Processing](https://github.com/linhnde/quiz-data-processing){:target="_blank"}
+### 🤖 [Quiz Data Processing](https://github.com/linhnfruto/quiz-data-processing){:target="_blank"}
 
 In this project, we will build a Jupyter notebook to create a synthetic quiz dataset for using in web application.
 
 I use Vertex AI to generate text data mimics quiz which input by human in common format. From the mockup document, we will load, extract and process, re-engineer it into JSON format which is widely used for web application.
 
-### 🧐 [Exam Practice (Flask base)](https://github.com/linhnde/exam-practice-flask){:target="_blank"}
+### 🧐 [Exam Practice (Flask base)](https://github.com/linhnfruto/exam-practice-flask){:target="_blank"}
 
 Simulating a demand for practicing on certain quiz set, I create this web app, Exam Practice (EP).
 
